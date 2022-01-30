@@ -1,0 +1,10 @@
+.main1{
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #e5E7EB;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    display: flex;
+}
