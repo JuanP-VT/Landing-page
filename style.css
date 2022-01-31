@@ -2,6 +2,10 @@ a{
     text-decoration: none;
     color: #e5E7EB;
 }
+.smalltext{
+    font-size: 18px;
+    color: #e5e7eb;
+}
 .sb1{
     background-color: #1F2937;
     font-size: 18px;
@@ -74,4 +78,43 @@ color: #f9faf8;
 padding: 5px;
 width: 100px;
 margin-top: 20px;
+}
+.sb2{
+    display: flex;
+    flex-direction: column;
+}
+.sb2-header{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+    padding: 20px;
+}
+.sb2-content{
+display: flex;
+justify-content: center;
+gap: 50px;
+padding-bottom: 30px;
+}
+.sb2-box{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.square{
+border: solid #3882f6 2px ;
+border-radius: 10px;
+height: 120px;
+width: 120px;
+margin-bottom: 15px;
+
+}
+.inf{
+    height: 120px;
+    width: 120px;
+    flex-wrap: nowrap;
+    font-size: 18px;
+    color: #8e9196;
+    text-align: center;
 }
