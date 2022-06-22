@@ -2,11 +2,11 @@
 
 ## What is this ?
 
-### This project is part of my Curriculum Series, the objective is to have a repository to prove my skills as a web developer.
+#### This project is part of my Curriculum Series, the objective is to have a repository to prove my skills as a web developer.
 
-### Also this is my very first project ever made, the goal is to practice and consolidate my knowledge with the basics of HTML and CSS.
+#### Also this is my very first project ever made, the goal is to practice and consolidate my knowledge with the basics of HTML and CSS.
 
-### The Website is a simple **homepage structure**, the focus is to practice these two languages and not so much the design of the page.
+#### The Website is a simple **homepage structure**, the focus is to practice these two languages and not so much the design of the page.
 
 ## Objective
 
