@@ -10,7 +10,8 @@ The Website is a simple **homepage structure**, the focus is to practice these t
 
 ## Objective
 
-    -Get practice with basic HTML elements; divs, p, span, img.
-    -Get practice with basic HTML attributes; id, class
-    -Get practice with basic CSS properties: color, text properties, background, height, margin , padding
-    -Understand the box model
+- Get practice with basic HTML elements; divs, p, span, img.
+- Get practice with basic HTML attributes; id, class
+- Get practice with basic CSS properties: color, text properties, background, height, margin , padding
+- Understand the box model
+- Put everything together to make a good looking homepage
